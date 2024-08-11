@@ -12,3 +12,6 @@ This project was developed as part of the Software Security Engineering class, d
 - **Express.js**: Web application framework for Node.js, used to create the server and handle routing.
 - **Passport.js**: Middleware for authentication in Node.js, used to integrate Google OAuth.
 - **WebAuthn API**: Standardized API for web authentication, enabling strong, passwordless authentication.
+
+## Acknowledgments
+This project was created as part of the Software Security Engineering class. Special thanks to Dr.Abdulaziz Alaboudi and peers who provided valuable feedback during development.
